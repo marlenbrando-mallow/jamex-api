@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  location: one
+  service_date: 2026-10-17
+  completed_date: 2026-10-17
+  status: 1
+  remarks: MyText
+
+two:
+  location: two
+  service_date: 2026-10-17
+  completed_date: 2026-10-17
+  status: 1
+  remarks: MyText
